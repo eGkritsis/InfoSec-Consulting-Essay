@@ -1,5 +1,5 @@
 # InfoSec-Consulting-Essay
-Essay for CS AUEB'S Information Systems Security course
+A report for CS AUEB'S Information Systems Security course
 
 This repository contains a report on the significant issue of malware, along with its social, political, and legal context in the United States and Hong Kong.
 
